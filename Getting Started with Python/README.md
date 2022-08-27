@@ -10,8 +10,11 @@ Once you have completed your solution you should make sure you commit and push y
 ## Exercise 1: Hellow World:ballot_box_with_check:
 
 Print following lines in Python language.
+
 I love Python.
+
 Python is case sensitive language.
+
 &nbsp;
 &nbsp;
 &nbsp;

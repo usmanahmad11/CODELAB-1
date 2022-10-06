@@ -59,6 +59,13 @@ A girl heads to a computer shop to buy some USB sticks. She loves USB sticks and
 Write a programme that calculates how many USB sticks she can buy and how many pounds she will have left.
 
 You will to use the arithmetic operators to complete this exercise.
+# This is solution of this exercise
+
+
+
+
+
+
 
 &nbsp;
 &nbsp;

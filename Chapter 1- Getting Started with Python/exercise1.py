@@ -1,1 +1,1 @@
-print("hellow")
+print("This is Code Lab 1 Class ")
